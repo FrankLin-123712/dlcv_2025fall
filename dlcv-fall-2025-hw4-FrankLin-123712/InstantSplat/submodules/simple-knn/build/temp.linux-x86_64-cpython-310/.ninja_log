@@ -1,0 +1,4 @@
+# ninja log v5
+0	5295	1764771050895052566	/home/chiehchihlin/dlcv_2025fall/dlcv-fall-2025-hw4-FrankLin-123712/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	e622c008055af9fa
+0	8594	1764771054191074059	/home/chiehchihlin/dlcv_2025fall/dlcv-fall-2025-hw4-FrankLin-123712/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	2b0df10e4d1c5e07
+0	19104	1764771064699142670	/home/chiehchihlin/dlcv_2025fall/dlcv-fall-2025-hw4-FrankLin-123712/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	b5ab9d222765e5ce

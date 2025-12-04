@@ -1,0 +1,39 @@
+# User-specified files and directories
+data/
+hw4_data/
+hw_4_1_data/
+hw_4_2_data/
+__pycache__/
+results/
+util/
+create_filtered_dataset.py
+# eval.py
+TRUE_dust3r_inference.py
+hw_4_1_data.zip
+
+# Standard Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor config
+.vscode/
+.idea/
+
+# Output files (like from your scripts)
+*.npy
+output*
+*ckpt/

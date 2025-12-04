@@ -1,0 +1,13 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+data_2025/*
+*ckpts*/
+.ipynb_checkpoints/
+__pycache__/
+*png
+*jpg
+*.txt
+*.log
+*.csv
+*output*/
